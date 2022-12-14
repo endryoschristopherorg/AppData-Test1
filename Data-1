@@ -6,7 +6,7 @@
   "openLinkMain": "https://t.me/gg_motives",
   "currVersion": "2.0",
   "openLinkExtra": "null",
-  "dialogBtnMainClick": "browser",
+  "dialogBtnMainClick": "dismiss",
   "dialogSubtitle": "If you really feel tired please subscribe to my telegram channel. ",
   "isOneTime": "true",
   "dialogBtnMain": "true",
