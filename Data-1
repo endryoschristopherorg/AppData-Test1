@@ -1,21 +1,22 @@
 {
   "dialogBtnExtraTxt": "Exit ",
   "dialogBtnExtraClick": "exit",
-  "dialogBtnMainTxt": "Telegram",
+  "dialogBtnMainTxt": "Continuar",
   "dialogOption": "message",
   "openLinkMain": "https://t.me/gg_motives",
   "currVersion": "1.1",
   "openLinkExtra": "null",
   "dialogBtnMainClick": "dismiss",
-  "dialogSubtitle": "If you really feel tired please subscribe to my telegram channel. ",
+  "dialogSubtitle": "Não se esqueça de baixar uma versão mais atualizada ,fique ligado 🙂",
   "isOneTime": "true",
   "dialogBtnMain": "true",
   "developer": "sZBhsVKsYVdQf5kpd9oaXGpW4mg2",
   "alertOption": "sheet",
-  "dialogTitle": "New Version !",
+  "dialogTitle": "Versão Disponível!",
   "dialogBtnExtra": "false",
   "isCancelable": "false",
   "email": "anoirbouali05@gmail.com",
   "isOneTimeKey": "AKTOOLS PRO7267239",
-  "newVersion": "1.1"
+  "newVersion": "1.1",
+  "VersionOBR": "1.0"
 }
