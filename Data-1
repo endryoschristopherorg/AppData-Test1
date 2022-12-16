@@ -4,7 +4,7 @@
   "dialogBtnMainTxt": "Telegram",
   "dialogOption": "message",
   "openLinkMain": "https://t.me/gg_motives",
-  "currVersion": "2.0",
+  "currVersion": "1.1",
   "openLinkExtra": "null",
   "dialogBtnMainClick": "dismiss",
   "dialogSubtitle": "If you really feel tired please subscribe to my telegram channel. ",
@@ -17,5 +17,5 @@
   "isCancelable": "false",
   "email": "anoirbouali05@gmail.com",
   "isOneTimeKey": "AKTOOLS PRO7267239",
-  "newVersion": "2.0"
+  "newVersion": "1.1"
 }
