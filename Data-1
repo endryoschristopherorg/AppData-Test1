@@ -4,7 +4,7 @@
   "dialogBtnMainTxt": "Continuar",
   "dialogOption": "message",
   "openLinkMain": "https://t.me/gg_motives",
-  "currVersion": "1.1",
+  "currVersion": "1.2",
   "openLinkExtra": "null",
   "dialogBtnMainClick": "dismiss",
   "dialogSubtitle": "Não se esqueça de baixar uma versão mais atualizada ,fique ligado 🙂",
@@ -17,6 +17,6 @@
   "isCancelable": "false",
   "email": "anoirbouali05@gmail.com",
   "isOneTimeKey": "AKTOOLS PRO7267239",
-  "newVersion": "1.1",
+  "newVersion": "1.2",
   "VersionOBR": "1.0"
 }
